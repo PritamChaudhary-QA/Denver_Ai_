@@ -1,0 +1,6 @@
+{
+  "name": "Denver AI - Personal Intelligence",
+  "description": "Voice-activated Jarvis-style personal AI assistant with local file system integration, Windows OS automation, live system telemetry, and E2E encryption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
